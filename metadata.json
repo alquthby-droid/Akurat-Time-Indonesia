@@ -1,0 +1,6 @@
+{
+  "name": "Akurat Time Indonesia",
+  "description": "Aplikasi penentu waktu sholat akurat, hisab falakiyah Kemenag RI, cetak sertifikat kalibrasi arah kiblat, dan jam atom presisi oleh Husni, S. Kom. I (Penyuluh Agama Islam KUA Kec. Gerung, Lombok Barat).",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
